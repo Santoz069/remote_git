@@ -8,5 +8,7 @@
 <body>
     <h1>Hello world</h1>
     <p>lorem</p>
+    <h1>hai ges</h1>
+    <h2>Bekerja gessssss></h2>
 </body>
 </html>
